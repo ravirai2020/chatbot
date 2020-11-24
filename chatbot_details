@@ -1,0 +1,28 @@
+Chatbot using python
+
+Library needed-
+
+chatterbot
+chatterbot-corpus
+
+library instlled-
+
+chatterbot
+spacy(https://github.com/gunthercox/ChatterBot/issues/1736)
+	pip install spacy
+	python -m spacy download en
+	python -m spacy link en_core_web_sm en
+nltk
+chatterbot-corpus
+
+
+
+
+
+
+
+
+
+https://stackoverflow.com/questions/48332932/error-while-using-chatterbot
+
+
